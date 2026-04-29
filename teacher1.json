@@ -1,0 +1,9 @@
+{
+  "imagepath": "https://raw.githubusercontent.com/.../teacher.png",
+  "title": "Welcome to Mr. Ahmed's Practice",
+  "papers": {
+    "2025 Mock": "https://raw.githubusercontent.com/Fares-126/pptrial/refs/heads/main/pp1.json",
+    "2024 Past Paper": "https://raw.githubusercontent.com/.../exam2024.json"
+    "2023 Past Paper": "https://raw.githubusercontent.com/.../exam2024.json"
+  }
+}
